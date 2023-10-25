@@ -1,11 +1,14 @@
 {
   "Contracts": {
+    "CompoundLens": "",
+    "Maximillion": "",
+    "PriceOracle": "0x9001Ef3b0Dc02e2F097ABF6C189b178600594fcD",
+    "PriceOracleProxy": "0x9001Ef3b0Dc02e2F097ABF6C189b178600594fcD",
     "Unitroller": "0xc3F26692EaFDD085304A6e2c8A28E0209dc35448",
     "Comptroller": "0x05D036702a89fC3fA1b025C6C1A4625d50f6dC29",
     "VolatileRateModel": "0x30945B19FA83D1AcB8f8418E6687F65bD9D5cdf9",
     "StableRateModel": "0x40B209023e7e5ac2CAF9fa6348B5dFBD836D12db",
     "MediumRateModel": "0xf16111866C931A30c5be0BaE58DC5783241bc6c2",
-    "ChainlinkPriceOracle": "0x9001Ef3b0Dc02e2F097ABF6C189b178600594fcD",
     "1ETH": "0x4cC435d7b9557d54d6EF02d69Bbf72634905Bf11",
     "1USDC": "0xBC594CABd205bD993e7FfA6F3e9ceA75c1110da5",
     "1USDT": "0xF2732e8048f1a411C63e2df51d08f4f52E598005",
@@ -16,6 +19,10 @@
     "cWONE": "0xba8083B1C6c88732AD735d527288680EfB8C44Ef"
   },
   "Blocks": {
+    "CompoundLens": 0,
+    "Maximillion": 0,
+    "PriceOracle": 47516116,
+    "PriceOracleProxy": 47516116,
     "Unitroller":  47516040,
     "Comptroller": 47516047,
     "VolatileRateModel": 47516067,
@@ -86,6 +93,14 @@
     }
   },
   "cTokens": {
+    "cETH": {
+      "name": "Compound ETH",
+      "symbol": "c1ETH",
+      "decimals": 8,
+      "underlying": "",
+      "contract": "",
+      "address": ""
+    },
     "c1ETH": {
       "name": "Compound ETH",
       "symbol": "c1ETH",
