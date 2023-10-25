@@ -119,5 +119,39 @@
       "address": "0xba8083B1C6c88732AD735d527288680EfB8C44Ef"
     }
   },
-  "InterestRateModel": {}
+  "InterestRateModel": {
+    "StableRateModel": {
+      "name": "StableRateModel",
+      "contract": "JumpRateModelV4",
+      "description": "StableRateModel",
+      "base": "0",
+      "multiplier": "50000000000000000",
+      "jump": "1365000000000000000",
+      "kink": "800000000000000000",
+      "owner": "0xd0c46e5e40b38eeb3b685fd18550fc54e5afa0f2",
+      "address": "0x40B209023e7e5ac2CAF9fa6348B5dFBD836D12db"
+    },
+    "MediumRateModel": {
+      "name": "MediumRateModel",
+      "contract": "JumpRateModelV4",
+      "description": "MediumRateModel",
+      "base": "20000000000000000",
+      "multiplier": "225000000000000000",
+      "jump": "1250000000000000000",
+      "kink": "800000000000000000",
+      "owner": "0xd0c46e5e40b38eeb3b685fd18550fc54e5afa0f2",
+      "address": "0xf16111866C931A30c5be0BaE58DC5783241bc6c2"
+    },
+    "VolatileRateModel": {
+      "name": "VolatileRateModel",
+      "contract": "JumpRateModelV4",
+      "description": "VolatileRateModel",
+      "base": "25000000000000000",
+      "multiplier": "225000000000000000",
+      "jump": "5000000000000000000",
+      "kink": "800000000000000000",
+      "owner": "0xd0c46e5e40b38eeb3b685fd18550fc54e5afa0f2",
+      "address": "0x30945B19FA83D1AcB8f8418E6687F65bD9D5cdf9"
+    }
+  }
 }
