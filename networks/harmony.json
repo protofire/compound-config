@@ -124,8 +124,32 @@
          "underlying":"",
          "contract":"cONE",
          "initial_exchange_rate_mantissa":"200000000000000000000000000",
-         "admin":"0xD0c46E5e40b38eEB3b685fD18550fC54e5aFA0F2",
          "address":"0xAd5a1d2F3be92cC88A914edA719DEb296c3f5c83"
+      },
+      "cWONE":{
+         "name":"Compound Wrapped One",
+         "symbol":"cWONE",
+         "decimals":8,
+         "underlying":"0xcf664087a5bb0237a0bad6742852ec6c8d69a27a",
+         "contract":"CErc20Immutable_WONE",
+         "initial_exchange_rate_mantissa":"200000000000000000000000000",
+         "address":"0xb7E02d26E43c1d65846df133DA7D2609B3C70864"
+      },
+      "c1USDC":{
+         "name":"Compound USD Coin",
+         "symbol":"c1USDC",
+         "decimals":8,
+         "underlying":"0xBC594CABd205bD993e7FfA6F3e9ceA75c1110da5",
+         "contract":"CErc20Immutable_1USDC",
+         "address":"0x2e440B22b77e2439db23C14E7ce285B1a6111AC4"
+      },
+      "c1USDT":{
+         "name":"Compound Tether USD",
+         "symbol":"c1USDT",
+         "decimals":8,
+         "underlying":"0xF2732e8048f1a411C63e2df51d08f4f52E598005",
+         "contract":"CErc20Immutable_1USDT",
+         "address":"0x808e86aC074662e0B641fEAeFce7939420e2Befd"
       }
    },
    "InterestRateModel":{
