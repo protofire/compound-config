@@ -5,7 +5,7 @@
       "Fauceteer":"",
       "GovernorBravo":"",
       "GovernorBravoHarness":"",
-      "Maximillion":"",
+      "Maximillion":"0x98Ed39475f56CEC6f7eB0b12F9fe4c38aBa2C709",
       "PriceOracle":"",
       "PriceOracleProxy":"",
       "Timelock":"",
@@ -39,7 +39,7 @@
       "c1USDC":49010980,
       "c1USDT":49010983,
       "cWONE":49010975,
-      "cONE": 49010936
+      "cONE":49010936
    },
    "Tokens":{
       "COMP":{
