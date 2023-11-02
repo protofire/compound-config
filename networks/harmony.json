@@ -25,7 +25,8 @@
       "c1ETH":"0x1Ac72B636b5F1577cA697A51b760654486332ADa",
       "c1USDC":"0x2e440B22b77e2439db23C14E7ce285B1a6111AC4",
       "c1USDT":"0x808e86aC074662e0B641fEAeFce7939420e2Befd",
-      "cONE":"0x73754998cf29CBE846DD0a14FD0A16CAAb1bfd51"
+      "cONE":"0x73754998cf29CBE846DD0a14FD0A16CAAb1bfd51",
+      "cWONE":"0xb7E02d26E43c1d65846df133DA7D2609B3C70864"
    },
    "Blocks":{
       "Unitroller":49000367,
@@ -105,6 +106,14 @@
          "underlying":"0xF2732e8048f1a411C63e2df51d08f4f52E598005",
          "contract":"CErc20Immutable_1USDT",
          "address":"0x808e86aC074662e0B641fEAeFce7939420e2Befd"
+      },
+      "cWONE":{
+         "name":"Compound Wrapped One",
+         "symbol":"cWONE",
+         "decimals":8,
+         "underlying":"0xcf664087a5bb0237a0bad6742852ec6c8d69a27a",
+         "contract":"CErc20Immutable_WONE",
+         "address":"0xb7E02d26E43c1d65846df133DA7D2609B3C70864"
       }
    },
    "cTokens":{
@@ -140,6 +149,14 @@
          "underlying":"0xF2732e8048f1a411C63e2df51d08f4f52E598005",
          "contract":"CErc20Immutable_1USDT",
          "address":"0x808e86aC074662e0B641fEAeFce7939420e2Befd"
+      },
+      "cWONE":{
+         "name":"Compound Wrapped One",
+         "symbol":"cWONE",
+         "decimals":8,
+         "underlying":"0xcf664087a5bb0237a0bad6742852ec6c8d69a27a",
+         "contract":"CErc20Immutable_WONE",
+         "address":"0xb7E02d26E43c1d65846df133DA7D2609B3C70864"
       }
    },
    "InterestRateModel":{
