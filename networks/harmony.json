@@ -84,7 +84,7 @@
          "address":"0xcf664087a5bb0237a0bad6742852ec6c8d69a27a"
       },
       "c1ETH":{
-         "name":"Compound ETH",
+         "name":"Compound 1ETH",
          "symbol":"c1ETH",
          "decimals":8,
          "underlying":"0x4cC435d7b9557d54d6EF02d69Bbf72634905Bf11",
@@ -92,7 +92,7 @@
          "address":"0x1Ac72B636b5F1577cA697A51b760654486332ADa"
       },
       "c1USDC":{
-         "name":"Compound USD Coin",
+         "name":"Compound 1USD Coin",
          "symbol":"c1USDC",
          "decimals":8,
          "underlying":"0xBC594CABd205bD993e7FfA6F3e9ceA75c1110da5",
@@ -100,7 +100,7 @@
          "address":"0x2e440B22b77e2439db23C14E7ce285B1a6111AC4"
       },
       "c1USDT":{
-         "name":"Compound Tether USD",
+         "name":"Compound 1Tether USD",
          "symbol":"c1USDT",
          "decimals":8,
          "underlying":"0xF2732e8048f1a411C63e2df51d08f4f52E598005",
@@ -127,7 +127,7 @@
          "address":"0x73754998cf29CBE846DD0a14FD0A16CAAb1bfd51"
       },
       "c1ETH":{
-         "name":"Compound ETH",
+         "name":"Compound 1ETH",
          "symbol":"c1ETH",
          "decimals":8,
          "underlying":"0x4cC435d7b9557d54d6EF02d69Bbf72634905Bf11",
@@ -135,7 +135,7 @@
          "address":"0x1Ac72B636b5F1577cA697A51b760654486332ADa"
       },
       "c1USDC":{
-         "name":"Compound USD Coin",
+         "name":"Compound 1USD Coin",
          "symbol":"c1USDC",
          "decimals":8,
          "underlying":"0xBC594CABd205bD993e7FfA6F3e9ceA75c1110da5",
@@ -143,7 +143,7 @@
          "address":"0x2e440B22b77e2439db23C14E7ce285B1a6111AC4"
       },
       "c1USDT":{
-         "name":"Compound Tether USD",
+         "name":"Compound 1Tether USD",
          "symbol":"c1USDT",
          "decimals":8,
          "underlying":"0xF2732e8048f1a411C63e2df51d08f4f52E598005",
