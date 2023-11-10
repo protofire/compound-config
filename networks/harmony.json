@@ -78,7 +78,7 @@
          "address":"0xF2732e8048f1a411C63e2df51d08f4f52E598005"
       },
       "WONE":{
-         "name":"Wrapped ONE",
+         "name":"WONE",
          "symbol":"WONE",
          "decimals":18,
          "address":"0xcf664087a5bb0237a0bad6742852ec6c8d69a27a"
@@ -108,7 +108,7 @@
          "address":"0x808e86aC074662e0B641fEAeFce7939420e2Befd"
       },
       "cWONE":{
-         "name":"Compound Wrapped One",
+         "name":"Compound WONE",
          "symbol":"cWONE",
          "decimals":8,
          "underlying":"0xcf664087a5bb0237a0bad6742852ec6c8d69a27a",
@@ -151,7 +151,7 @@
          "address":"0x808e86aC074662e0B641fEAeFce7939420e2Befd"
       },
       "cWONE":{
-         "name":"Compound Wrapped One",
+         "name":"Compound WONE",
          "symbol":"cWONE",
          "decimals":8,
          "underlying":"0xcf664087a5bb0237a0bad6742852ec6c8d69a27a",
